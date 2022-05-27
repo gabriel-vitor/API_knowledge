@@ -16,9 +16,9 @@ Criação de API com NodeJS para fins de estudo
 ## Como utilizar
 
 ```bash
-    $ yarn install
+    yarn install
     
-    $ yarn dev
+    yarn dev
 
 ```
 
